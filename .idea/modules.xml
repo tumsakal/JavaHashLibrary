@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Demo_GUI.iml" filepath="$PROJECT_DIR$/Demo_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JavaHashLibrary/JavaHashLibrary.iml" filepath="$PROJECT_DIR$/../JavaHashLibrary/JavaHashLibrary.iml" />
     </modules>
   </component>
 </project>
